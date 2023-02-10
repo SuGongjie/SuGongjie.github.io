@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Tutorials</title>
+      <link href="/2023/02/09/Tutorials/"/>
+      <url>/2023/02/09/Tutorials/</url>
+      
+        <content type="html"><![CDATA[<h2 id="hexo-github-butterfly-搭建你的个人博客保姆级教程（无需云服务器）"><a href="#hexo-github-butterfly-搭建你的个人博客保姆级教程（无需云服务器）" class="headerlink" title="hexo + github + butterfly 搭建你的个人博客保姆级教程（无需云服务器）"></a>hexo + github + butterfly 搭建你的个人博客保姆级教程（无需云服务器）</h2><p><a href="https://blog.csdn.net/weixin_45476502/article/details/124688553">https://blog.csdn.net/weixin_45476502/article/details/124688553</a></p><h2 id="将个人域名与GitHub绑定"><a href="#将个人域名与GitHub绑定" class="headerlink" title="将个人域名与GitHub绑定"></a>将个人域名与GitHub绑定</h2><p><a href="https://www.cnblogs.com/ldu-xingjiahui/p/12594025.html#%E4%B8%89%E3%80%81%E5%B0%86%E4%B8%AA%E4%BA%BA%E5%9F%9F%E5%90%8D%E4%B8%8EGitHub%E7%BB%91%E5%AE%9A">https://www.cnblogs.com/ldu-xingjiahui/p/12594025.html#三、将个人域名与GitHub绑定</a></p><p><a href="https://blog.csdn.net/MarkeyMark/article/details/108060968">https://blog.csdn.net/MarkeyMark/article/details/108060968</a></p><h2 id="作者的文档"><a href="#作者的文档" class="headerlink" title="作者的文档"></a>作者的文档</h2><p><a href="https://butterfly.js.org/">https://butterfly.js.org/</a></p><h2 id="B站butteryfly视频讲解（非作者本人）"><a href="#B站butteryfly视频讲解（非作者本人）" class="headerlink" title="B站butteryfly视频讲解（非作者本人）"></a>B站butteryfly视频讲解（非作者本人）</h2><p><a href="https://space.bilibili.com/13282871/video">https://space.bilibili.com/13282871/video</a></p><h2 id="本地搜索功能"><a href="#本地搜索功能" class="headerlink" title="本地搜索功能"></a>本地搜索功能</h2><p><a href="https://www.jianshu.com/p/500e2e1e66c5">https://www.jianshu.com/p/500e2e1e66c5</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2023/02/09/hello-world/"/>
+      <url>/2023/02/09/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
